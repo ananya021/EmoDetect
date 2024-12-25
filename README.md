@@ -38,12 +38,12 @@ A total of 35,887 labeled images.
 2. Facial Analysis Model: Successfully classifies emotions based on grayscale images of facial expressions.
 
 # Applications
-Mental Health Monitoring: Detect emotions for therapeutic insights.
-Customer Service: Improve user interaction by analyzing emotions in real-time.
-Surveillance and Security: Detect stress or fear in sensitive environments.
-Human-Computer Interaction: Enhance user experience by adapting systems to emotional states.
+1. Mental Health Monitoring: Detect emotions for therapeutic insights.
+2. Customer Service: Improve user interaction by analyzing emotions in real-time.
+3. Surveillance and Security: Detect stress or fear in sensitive environments.
+4. Human-Computer Interaction: Enhance user experience by adapting systems to emotional states.
 
 # Future Scope
-Expand datasets to include more diverse and naturalistic emotions.
-Integrate additional modalities like physiological signals.
-Optimize for deployment on mobile and IoT devices for broader accessibility.
+1. Expand datasets to include more diverse and naturalistic emotions.
+2. Integrate additional modalities like physiological signals.
+3. Optimize for deployment on mobile and IoT devices for broader accessibility.
